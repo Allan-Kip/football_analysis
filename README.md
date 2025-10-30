@@ -28,7 +28,7 @@ The goal of this project is to explore how Premier League teams perform across d
 - Radar Chart (Comparison of top 4 teams’ performance metrics)
 
 **Conclusion**
-This project revealed clear differences in team performance between home and away games.
-There’s a strong link between shots on target and goals scored, and radar charts highlighted distinct strengths among the top 4 teams.
+-This project revealed clear differences in team performance between home and away games.
+-There’s a strong link between shots on target and goals scored, and radar charts highlighted distinct strengths among the top 4 teams.
 
 Overall, it shows how R can transform raw football data into meaningful insights — combining data cleaning, visualization, and simple analytics.
